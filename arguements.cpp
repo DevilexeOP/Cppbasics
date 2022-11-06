@@ -28,6 +28,6 @@ int main()
     cout << "For Nerds : If you have " << money << "rs in your acc/ , you will recieve " << mreceived(money, 1.2) << " after 1 year" << endl;
 
     return 0;
-    
+
     // ! Note for arguements => the mandatory argument must be on the left & the default argument be on the right
 }
